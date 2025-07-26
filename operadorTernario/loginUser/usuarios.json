@@ -1,0 +1,30 @@
+[
+  {
+    "id": 100,
+    "nombre": "Juan Perez",
+    "usuario": "juanpe",
+    "password": "juan123",
+    "email": "juan.perez@example.com",
+    "activo": true,
+    "roles": ["administrador", "editor"],
+    "direccion": {
+      "calle": "Av. Siempre Viva",
+      "numero": "121",
+      "ciudad": "Springfield"
+  }
+  },
+    {
+    "id": 101,
+    "nombre": "Rodrigo Fernando",
+    "usuario": "rofernan",
+    "password": "rodri123",
+    "email": "rodrigo.fernando@example.com",
+    "activo": true,
+    "roles": ["programador", "analista"],
+    "direccion": {
+      "calle": "Av. Gaviotas",
+      "numero": "231",
+      "ciudad": "Surco"
+  }
+  }
+]
